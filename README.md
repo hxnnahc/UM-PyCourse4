@@ -1,1 +1,1 @@
-I was tasked to create a game of Wheel of Fortune for UM Python Classes and Inheritance (Course 4). 
+I completed the UM Python Classes and Inheritance course, which is Course #4 of the Python 3 Specialization Program on Coursera. For the final project, I applied  Python's concepts of classes and inheritance to create a game of Wheel of Fortune. I used Google Colaboratory (Jupyter Notebook) to complete this project.
